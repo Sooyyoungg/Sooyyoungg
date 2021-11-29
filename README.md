@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
   
 # 🍑 Hello, I'm Sooyoung 🍑
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyyoungg&count_bg=%23FFC3CF&title_bg=%23FF4159&icon=nim.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -55,4 +54,3 @@ Commectome Lab  | 2020.06 ~ 2020.12 | Seoul National University | Jiook Cha
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooyyoungg&title_color=FFF&text_color=ffc0cb&bg_color=DEG,F36,F99)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
