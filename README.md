@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"></code>
 
 
 ### 🎈 Education 🎈
