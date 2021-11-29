@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyyoungg&count_bg=%23FFC3CF&title_bg=%23FF4159&icon=nim.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
-# 🌸 Interests 🌸
+## 🌸 Interests 🌸
 Artificial Neural Networks    
 Computer Vision    
 Application of Deep Learning to Brain data
 
-# 🔨 Technique Stack 🔨
+## 🔨 Technique Stack 🔨
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white"></code>
@@ -40,7 +40,7 @@ Application of Deep Learning to Brain data
 <code><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"></code>
 
-# 🎈 Education 🎈
+## 🎈 Education 🎈
 Type  | Date  | School | Department
 ------|------ | -------|-----
 B.S.  | 2017.03 ~ 2021.02 | EWHA Womans University | Computer Science and Engineering
@@ -51,6 +51,6 @@ Lab  | Date  | School | Professor
 Bioinformatics Lab   | 2019.03 ~ 2020.06 | EWHA Womans University | Hyunseok Park
 Commectome Lab  | 2020.06 ~ 2020.12 | Seoul National University | Jiook Cha
 
-# 🍒 Github Stats 🍒
+## 🍒 Github Stats 🍒
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooyyoungg&title_color=FFF&text_color=ffc0cb&bg_color=DEG,F36,F99)](https://github.com/anuraghazra/github-readme-stats)
 
