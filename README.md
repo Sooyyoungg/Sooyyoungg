@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ## 🍑 Hello, I'm Sooyoung 🍑
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyyoungg&count_bg=%23FFC3CF&title_bg=%23FF4159&icon=nim.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src='https://t1.daumcdn.net/cfile/tistory/23170636567CE3C330'>
+<img src='https://t1.daumcdn.net/cfile/tistory/23170636567CE3C330' alt="drawing" width="700"/>   
+🎄Merry Christmas!🎄
 
   
 ### 🌸 Interests 🌸
