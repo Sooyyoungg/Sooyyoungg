@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <code><img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></code>     
+<code><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"></code>     
 <code><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"></code>
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
 <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"></code>
 
-<code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"></code>
 
 ### 🎈 Education 🎈
 Type  | Date  | School | Department
