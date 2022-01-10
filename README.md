@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src='https://t1.daumcdn.net/cfile/tistory/23170636567CE3C330' alt="drawing" width="700"/>    </div>      
-<div align="center">🎄Merry Christmas!🎄</div>
+<div align="center">Happy New Year!</div>
 
   
 ### 🌸 Interests 🌸
