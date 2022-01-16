@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🌸 Interests 🌸
 * Artificial Neural Networks    
 * Computer Vision    
-* Application of Deep Learning to Brain data
+* Application of Deep Learning to Biomedical Image including Brain data
 
 ### 🔨 Technique Stack 🔨
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></code>
