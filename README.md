@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   
 ### 🌸 Interests 🌸
-* 3D/4D Computer Vision (Deep Learning)   
+* 3D Computer Vision      
 * Graphics for virtual reality       
 * Human to AI        
 * Application for Biomedical Image including Brain data
