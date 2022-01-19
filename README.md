@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 ### 🌸 Interests 🌸
 * 3D Computer Vision      
-* Virtual reality & Augmented reality & Mixed reality       
+* Virtual reality & Augmented reality & Mixed reality & Substitutional reality       
 * Human to AI        
 * Application for Biomedical Image including Brain data
 
