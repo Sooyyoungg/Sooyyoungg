@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 
   
 ### 🌸 Interests 🌸
-* Deep Learning  
-* Computer Vision    
+* 3D/4D Computer Vision (Deep Learning)   
+* Graphics for virtual reality       
 * Application for Biomedical Image including Brain data
-* Algorithm
 
 ### 🔨 Technique Stack 🔨
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></code>
