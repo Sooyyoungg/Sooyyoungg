@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
   
 ### 🌸 Interests 🌸
-* 3D Computer Vision      
-* Virtual reality, Augmented reality, Mixed reality, Substitutional reality       
-* Contents having stories like Drama, Movie, Game            
+* Computer Vision & Deep learning      
+* Animation & Contents having stories like Drama, Movie, Game            
 * Application for Biomedical Image including Brain data
+* Virtual reality, Augmented reality, Mixed reality, Substitutional reality       
+
 
 ### Notion & email
 Notion : <https://caramel-log-9ed.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979>         
