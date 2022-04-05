@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   
 ### 🌸 Interests 🌸
 * Computer Vision & Deep learning      
-* Animation & Contents having stories like Drama, Movie, Game            
 * Application for Biomedical Image including Brain data
 * Virtual reality, Augmented reality, Mixed reality, Substitutional reality       
 
