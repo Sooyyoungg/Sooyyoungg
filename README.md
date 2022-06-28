@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyyoungg&count_bg=%23FFC3CF&title_bg=%23FF4159&icon=nim.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
-<img src='[https://frog00.tistory.com/66](https://t1.daumcdn.net/cfile/tistory/9998D53B5A9ACE6206)' alt="drawing" width="700"/>    </div>      
+
+<img src='![moana](https://user-images.githubusercontent.com/43199011/176122334-d500304a-d5bb-48b1-92c8-a3de2fa61ef1.jpeg)' alt="drawing" width="700"/>    </div>      
 <div align="center">My favorite season, Summer!</div>
 
   
