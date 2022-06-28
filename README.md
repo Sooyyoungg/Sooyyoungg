@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src='![moana](https://user-images.githubusercontent.com/43199011/176122334-d500304a-d5bb-48b1-92c8-a3de2fa61ef1.jpeg)' alt="drawing" width="700"/>    </div>      
+<img src='' alt="drawing" width="700"/>    </div>      ![moana](https://user-images.githubusercontent.com/43199011/176122477-d556f9bd-7189-43d6-b061-c1cc38695102.jpeg)
+
 <div align="center">My favorite season, Summer!</div>
 
   
