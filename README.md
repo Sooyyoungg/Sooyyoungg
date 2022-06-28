@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![moana](https://user-images.githubusercontent.com/43199011/176122477-d556f9bd-7189-43d6-b061-c1cc38695102.jpeg) </div>
-<div align="center">🏖 My favorite season, Summer! 🏝</div>
+<div align="center">🏖  My favorite season, Summer! 🏝</div>
 
   
 ### 🌸 Interests 🌸
