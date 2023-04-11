@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ### Notion & email
-Notion : [<https://caramel-log-9ed.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979> ](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979)        
+Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979)        
 email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com           
 
 ### 🔨 Technique Stack 🔨
