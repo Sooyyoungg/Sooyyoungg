@@ -25,13 +25,14 @@ Here are some ideas to get you started:
   
 ### 🌸 Interests 🌸
 * Computer Vision & Deep learning      
-* Application for Biomedical Image including Brain data
-* Virtual reality, Augmented reality, Mixed reality, Substitutional reality       
+* Playing with Image & Video Contents
+* Neural Style Transfer, Image Generation, Image-to-Image Translation      
+* Application for Biomedical Image including Brain data   
 
 
 ### Notion & email
 Notion : <https://caramel-log-9ed.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979>         
-email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com            
+email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com           
 
 ### 🔨 Technique Stack 🔨
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></code>
