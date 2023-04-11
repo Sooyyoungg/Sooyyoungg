@@ -61,8 +61,8 @@ B.S.  | 2017.03 ~ 2021.02 | EWHA Womans University | Computer Science and Engine
 
 Lab  | Date  | School | Professor
 ------|------ | -------|-----
-Commectome Lab  | 2020.06 ~ 2020.12 | Seoul National University | Jiook Cha
-Bioinformatics Lab   | 2019.03 ~ 2020.06 | EWHA Womans University | Hyunseok Park
+Commectome Lab  | 2020.06 ~ 2021.2 | Seoul National University | Jiook Cha
+Natural Language Process & Bioinformatics Lab   | 2019.07 ~ 2020.02 | EWHA Womans University | Hyunseok Park
 
 ### 🍒 Github Stats 🍒
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooyyoungg&title_color=FFF&text_color=ffc0cb&bg_color=DEG,F36,F99)](https://github.com/anuraghazra/github-readme-stats)
