@@ -23,16 +23,18 @@ Here are some ideas to get you started:
 <div align="center">🏖  My favorite season, Summer! 🏝</div>
 
   
+### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) <- here's everything about me🩵**        
+email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com  
+
+<br>
+
 ### 🌸 Interests 🌸
 * Computer Vision & Deep learning      
 * Playing with Image & Video Contents
 * Neural Style Transfer, Image Generation, Image-to-Image Translation      
 * Application for Biomedical Image including Brain data   
-
-
-### Notion & email
-Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) <- here's all about me🩵        
-email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com           
+       
+<br>
 
 ### 🔨 Technique Stack 🔨
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></code>
@@ -52,6 +54,7 @@ email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.co
 <code><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"></code>
 
+<br>
 
 ### 🎈 Education 🎈
 Type  | Date  | School | Department
@@ -63,6 +66,8 @@ Lab  | Date  | School | Professor
 ------|------ | -------|-----
 Commectome Lab  | 2020.06 ~ 2021.2 | Seoul National University | Jiook Cha
 Natural Language Process & Bioinformatics Lab   | 2019.07 ~ 2020.02 | EWHA Womans University | Hyunseok Park
+
+<br>
 
 ### 🍒 Github Stats 🍒
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooyyoungg&title_color=FFF&text_color=ffc0cb&bg_color=DEG,F36,F99)](https://github.com/anuraghazra/github-readme-stats)
