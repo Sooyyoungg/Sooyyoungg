@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 ![moana](https://user-images.githubusercontent.com/43199011/176122477-d556f9bd-7189-43d6-b061-c1cc38695102.jpeg) </div>
 <div align="center">🏖  My favorite season, Summer! 🏝</div>
 
+<br>
   
-### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) <- here's everything about me🩵**        
+### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) ← here's everything about me🩵**        
 email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com  
 
 <br>
