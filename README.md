@@ -60,12 +60,12 @@ email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.co
 ### 🎈 Education 🎈
 Type  | Date  | School | Department
 ------|------ | -------|-----
-M.S.  | 2021.03 ~ | Seoul National University | Brain and Cognitive Science
+M.S.  | 2021.03 ~ 2023.08 | Seoul National University | Brain and Cognitive Science
 B.S.  | 2017.03 ~ 2021.02 | EWHA Womans University | Computer Science and Engineering
 
 Lab  | Date  | School | Professor
 ------|------ | -------|-----
-Commectome Lab  | 2020.06 ~ 2021.2 | Seoul National University | Jiook Cha
+Commectome Lab  | 2020.06 ~ 2021.2 & 2023.08 ~ 2024.02 | Seoul National University | Jiook Cha
 Natural Language Process & Bioinformatics Lab   | 2019.07 ~ 2020.02 | EWHA Womans University | Hyunseok Park
 
 <br>
