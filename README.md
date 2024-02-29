@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 
 <br>
   
-### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) ← here's everything about me🩵**        
-email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com / rlatndud0513@naver.com  
+### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) ← here's everything about me in Korean🩵**        
+homepage: will be updated
+email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com
 
 <br>
 
 ### 🌸 Interests 🌸
-* Computer Vision & Deep learning      
-* Playing with Image & Video Contents
-* Neural Style Transfer, Image Generation, Image-to-Image Translation      
+* Generative modeling in Computer Vision
+* Playing with Image & Video Contents  -  (ex) Neural Style Transfer, Image Generation, Image-to-Image Translation
+* 3D view & object reconstruction
 * Application for Biomedical Image including Brain data   
        
 <br>
