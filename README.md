@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
   
 ### **Notion : [SOOYOUNG's Log](https://swimming-whale.notion.site/SOOYOUNG-s-Log-23f8999293cf42fa96b9ff028790e979) ← here's everything about me in Korean🩵**        
-homepage: will be updated
+homepage: https://sooyounggkim.github.io/ <br>
 email : rlatndud0513@snu.ac.kr / sooyyoungg513@gmail.com
 
 <br>
